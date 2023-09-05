@@ -1,17 +1,17 @@
-week02
--linux command : ls, ls-a, ls-al, pwd, cd.git, cd.., 
-echo "dfjsfjfl">>>README.md, cat REAMDME.md
--git command
--git init
--git status
--git add week01.txt-git config --global user.email " dlrkgusaa08@gamil.com"
--git add week01.txt-git config --global user.email " dlrkgusaa"
--git config --global --list
--git commit -m "v0"
--git log
-git checkout hashcode
-git checkout -
-git branch -M main
-git remote add origin https://github.com/inhatckimtaeganc/test.git
-git remote -v
-git push -u origin main
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 Backend is unhealthy</title>
+  </head>
+  <body>
+    <h1>Error 503 Backend is unhealthy</h1>
+    <p>Backend is unhealthy</p>
+    <h3>Error 54113</h3>
+    <p>Details: cache-icn1450084-ICN 1693897219 2186397275</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
