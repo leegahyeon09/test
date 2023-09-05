@@ -1,0 +1,17 @@
+week02
+-linux command : ls, ls-a, ls-al, pwd, cd.git, cd.., 
+echo "dfjsfjfl">>>README.md, cat REAMDME.md
+-git command
+-git init
+-git status
+-git add week01.txt-git config --global user.email " dlrkgusaa08@gamil.com"
+-git add week01.txt-git config --global user.email " dlrkgusaa"
+-git config --global --list
+-git commit -m "v0"
+-git log
+git checkout hashcode
+git checkout -
+git branch -M main
+git remote add origin https://github.com/inhatckimtaeganc/test.git
+git remote -v
+git push -u origin main
